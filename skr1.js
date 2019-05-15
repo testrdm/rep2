@@ -1,2 +1,2 @@
 // JavaScript source code
-let str = 'dsasaf';
+let ll = 12122;
